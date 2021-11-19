@@ -8,7 +8,9 @@ SPDX-License-Identifier: MIT
              
 -->
 
-Apodini contributors
+ApodiniObserve contributors
 ====================
 
 * [Paul Schmiedmayer](https://github.com/PSchmiedmayer)
+* [Philipp Zagar](https://github.com/philippzagar)
+* [Moritz Sternemann](https://github.com/moritzsternemann)

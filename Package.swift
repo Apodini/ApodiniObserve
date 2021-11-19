@@ -12,19 +12,19 @@ import PackageDescription
 
 
 let package = Package(
-    name: "ApodiniTemplate",
+    name: "ApodiniObserve",
     platforms: [
-        .macOS(.v11)
+        .macOS(.v12)
     ],
     products: [
-        .library(name: "ApodiniTemplate", targets: ["ApodiniTemplate"])
+        .library(name: "ApodiniObserve", targets: ["ApodiniObserve"])
     ],
     targets: [
-        .target(name: "ApodiniTemplate"),
+        .target(name: "ApodiniObserve"),
         .testTarget(
-            name: "ApodiniTemplateTests",
+            name: "ApodiniObserveTests",
             dependencies: [
-                .target(name: "ApodiniTemplate")
+                .target(name: "ApodiniObserve")
             ]
         )
     ]

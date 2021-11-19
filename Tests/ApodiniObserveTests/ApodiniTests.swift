@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import ApodiniTemplate
+@testable import ApodiniObserve
 
 
 final class ApodiniTemplateTests: XCTestCase {
